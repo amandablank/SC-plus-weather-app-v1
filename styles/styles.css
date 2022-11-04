@@ -134,6 +134,8 @@ i.icon {
 }
 
 .open-source-code {
+  display: block;
   text-align: center;
   margin: 0 auto;
+  padding: 20px;
 }
